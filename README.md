@@ -9,4 +9,7 @@ Insurance Data & Customer Feedback Analysis | Power BI
 
 <img width="1263" height="668" alt="Screenshot 2025-07-11 232115" src="https://github.com/user-attachments/assets/5770d0e5-a4f4-474a-a91b-b2ff39f09bbd" />
 
+<img width="1200" height="670" alt="Screenshot 2025-07-11 233514" src="https://github.com/user-attachments/assets/9634181b-a351-4dee-991f-daf58f60ba93" />
+
+
 
